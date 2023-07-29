@@ -24,6 +24,6 @@ game.StarterGui:SetCore(
 	}
 )
 wait(3)
-oadstring(game:HttpGet("https://raw.githubusercontent.com/Sheepy9999/yep-yep-yep/main/lol.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sheepy9999/yep-yep-yep/main/lol.lua", true))()
 wait(10)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Sheepy9999/yep-yep-yep/main/mains.lua", true))()
